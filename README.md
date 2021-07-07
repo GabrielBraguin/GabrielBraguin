@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm GabrielBraguin!</h1>
 <h3 align="center">I’m interested in Web Technologies (Frontend and Backend) and Game Development!</h3>
 
-- 🔭 I’m currently working on [RetailApp](https://retailapp.com/)
+- 🔭 I’m currently working on [T-Systems](https://retailapp.com/)
 
-- 🌱 I’m currently learning **React, Angular,  more about Unity, and soon Unreal..**
+- 🌱 I’m currently learning more about **React, Angular, Unity, and soon Unreal..**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GabrielBraguin](https://github.com/GabrielBraguin)
-
-- 💬 Ask me about **Unity, Frontend and Backend technologies**
 
 - 📫 How to reach me **gabriel.braguin@hotmail.com.br**
 
