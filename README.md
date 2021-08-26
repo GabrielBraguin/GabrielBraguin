@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm GabrielBraguin!</h1>
 <h3 align="center">I’m interested in Web Technologies (Frontend and Backend) and Game Development!</h3>
 
-- 🔭 I’m currently working on [To be updated very soon]
+- 🔭 I’m currently working on [Wevo](wevo.io)
 
 - 👨‍💻 All of my projects are available at [https://github.com/GabrielBraguin](https://github.com/GabrielBraguin)
 
